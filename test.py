@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v133 automate")
+print("Wassup Buddy!! v133 new automate")
